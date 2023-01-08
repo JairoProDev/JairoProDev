@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JairoProDev
-- 👀 I’m Building Startups
-- 🌱 I’m currently learning NodeJS & React Native
+- 🚀 I’m Building Startups: DiverEdu
+- 👨🏻‍💻 I’m currently learning NodeJS & React Native
 - 💞️ I’m looking to collaborate on Ed-tech projects
 - 📫 How to reach me: twitter.com/JairoProDev
 
