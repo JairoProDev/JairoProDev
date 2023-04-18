@@ -1,17 +1,17 @@
-# 👻🤖 Jairo Saul Salas Quiñones 👨🏻‍💻👨🏻‍🚀
+# 🤓🤖 Jairo Saul Salas Quiñones 👨🏻‍💻👨🏻‍🔬
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+y+CEO+de+DiverEdu.com%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BAhtly+above+wizard)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+y+CEO+de+DiverEdu.com%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BA;%F0%9F%8E%A8Creador+de+contenido+sobre%3A%F0%9F%93%B2;%F0%9F%92%B8Desarrollo+Profesional+y...+;%F0%9F%92%AA%F0%9F%8F%BBCrecimiento+Personal%F0%9F%A7%A0)](https://git.io/typing-svg)
 
-**`Pro-Dev | Sci-Tech`**
+### **`Pro-Dev | Sci-Tech`**
 
-**Blog: https://jairosaul.com**
+## **Blog: https://JairoSaul.com**
 
-**`(Programmer / StartUp Founder / Full Stack Dev / Scientific)`**
+ **`(Programmer / StartUp Founder / Full Stack Dev / Scientific)`**
 
 ---
 
-### 🌐 Languages and Tools:
+### 🌐 TECNOLOGÍAS QUE DOMINO:
 <br/>
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -20,19 +20,23 @@
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+<img align="left" alt="azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" />
+
+<img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" />
 <br />
 <br/>
 
@@ -69,7 +73,7 @@
 ![](./src/header_.png)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" align="right" height="" width="100" ></a>
 
-**📫 How to Reach me:**
+**📫 Cómo contactarme:**
 <p align="left">
 <a href="https://twitter.com/JairoProDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/jairosaul-prodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
@@ -78,6 +82,10 @@
 <a href="https://api.whatsapp.com/send?phone=+51931789756" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JairoProDev)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   my-skils -->
 
@@ -91,7 +99,4 @@
 | **Tools & Platform**                            | ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) |
 
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JairoProDev)](https://github.com/ashutosh00710/github-readme-activity-graph)
