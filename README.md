@@ -7,8 +7,8 @@
 
 ## **Blog: https://JairoSaul.com**
 
-### **`(Programmer / StartUp Founder / Full-Stack Dev / Scientific Popularizer / Coffee Philosopher)`**
-
+### **`(Programmer / StartUp Founder / Full-Stack Dev)`**
+### **`(Scientific Popularizer / Coffee Philosopher)`**
 ---
 
 ### 🌐 My Stack:
