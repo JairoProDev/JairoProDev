@@ -1,13 +1,13 @@
 # 🤓🤖 Jairo Saul Salas Quiñones 👨🏻‍💻👨🏻‍🔬
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+y+CEO+de+DiverEdu.com%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BA;%F0%9F%8E%A8Creador+de+contenido+sobre%3A%F0%9F%93%B2;%F0%9F%92%B8Desarrollo+Profesional+y...+;%F0%9F%92%AA%F0%9F%8F%BBCrecimiento+Personal%F0%9F%A7%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+de+DiverEdu.com:+Ed-Tech%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BA;%F0%9F%8E%A8Creador+de+contenido+sobre%3A%F0%9F%93%B2;%F0%9F%92%B8Desarrollo+Profesional+y...+;%F0%9F%92%AA%F0%9F%8F%BBCrecimiento+Personal%F0%9F%A7%A0)](https://git.io/typing-svg)
 
 ### **`Pro-Dev | Sci-Tech`**
 
 ## **Blog: https://JairoSaul.com**
 
- **`(Programmer / StartUp Founder / Full Stack Dev / Scientific)`**
+### **`(Programmer / StartUp Founder / Full-Stack Dev / Scientific Popularizer / Coffee Philosopher)`**
 
 ---
 
