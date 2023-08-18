@@ -79,13 +79,11 @@
 <a href="https://www.linkedin.com/in/jairosaul-prodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:JairoProDev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
-<a href="https://api.whatsapp.com/send?phone=+51931789756" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+<a href="https://api.whatsapp.com/send?phone=+51937054328" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
 </p>
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JairoProDev)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--   my-skils -->
 
