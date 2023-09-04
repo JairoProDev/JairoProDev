@@ -2,6 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" align="right" height="" width="100" ></a>
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+de+DiverEdu.com:+Ed-Tech%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BA;%F0%9F%8E%A8Creador+de+contenido+sobre%3A%F0%9F%93%B2;%F0%9F%92%B8Desarrollo+Profesional+y...+;%F0%9F%92%AA%F0%9F%8F%BBCrecimiento+Personal%F0%9F%A7%A0)](https://git.io/typing-svg)
 
@@ -9,11 +10,8 @@
 
 ## **Blog: https://JairoSaul.com**
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ### **`(Programmer / StartUp Founder / Full-Stack Dev)`**
 ### **`(Scientific Popularizer / Coffee Philosopher)`**
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Stack:</b>
@@ -62,22 +60,8 @@
 🎯 - Personal Development.
 
 📈 - Professional Growth.
-<details>
- <summary><h3>👨‍💻 Bio:</h3></summary>
-- 👋 Hola, Soy @JairoProDev
-- 🚀 Construyo una StartUp: DiverEdu
-- 👨🏻‍💻 Actualmente estoy aprendiendo Next, NodeJS & React Native
-- 💞️ I’m looking to collaborate on Ed-tech projects
-- 📫 How to reach me: twitter.com/JairoProDev
 
-[website]: https://JairoSaul.com
-[twitter]: https://twitter.com/JairoProDev
-</details>
-
-![](assets/Bottom_up.svg)
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" align="right" height="" width="100" ></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
@@ -85,17 +69,14 @@
 <a href="https://www.linkedin.com/in/jairosaul-prodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:JairoProDev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
-<<<<<<< HEAD
+
+
 <a href="https://api.whatsapp.com/send?phone=+51937054328" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-=======
-<a href="https://web.whatsapp.com/send?phone=+51937054328" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
->>>>>>> 79486875ba2a8542f9554d40476e679ec5616adf
-</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<<<<<<< HEAD
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
@@ -105,8 +86,7 @@
 </a>
 </div>
 
-=======
->>>>>>> 79486875ba2a8542f9554d40476e679ec5616adf
+
 <!--   my-skils -->
 
 | Knowledge                                        | Software                                                                                                                                                                                                                                                               |
