@@ -5,8 +5,13 @@
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" align="right" height="" width="100" ></a>
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BBHi%2C+Soy+Jhayro+Sasaqui%F0%9F%A4%96;%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BBFundador+de+DiverEdu.com:+Ed-Tech%F0%9F%9A%80;%F0%9F%A7%ACAmo+la+Ciencia+y+la+Tecnolog%C3%ADa%F0%9F%A9%BA;%F0%9F%8E%A8Creador+de+contenido+sobre%3A%F0%9F%93%B2;%F0%9F%92%B8Desarrollo+Profesional+y...+;%F0%9F%92%AA%F0%9F%8F%BBCrecimiento+Personal%F0%9F%A7%A0)](https://git.io/typing-svg)
+---
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif">
 
 ### **`Pro-Dev | Sci-Tech`**
+
 
 ## **Blog: https://JairoSaul.com**
 
@@ -44,6 +49,8 @@
 <br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
 #
 🎓 Founder & CEO of "DiverEdu" → Ed-Tech Start-Up.
 
