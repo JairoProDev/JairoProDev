@@ -85,12 +85,17 @@
 <a href="https://www.linkedin.com/in/jairosaul-prodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:JairoProDev@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
 
+<<<<<<< HEAD
 <a href="https://api.whatsapp.com/send?phone=+51937054328" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+=======
+<a href="https://web.whatsapp.com/send?phone=+51937054328" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+>>>>>>> 79486875ba2a8542f9554d40476e679ec5616adf
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
+<<<<<<< HEAD
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
@@ -100,6 +105,8 @@
 </a>
 </div>
 
+=======
+>>>>>>> 79486875ba2a8542f9554d40476e679ec5616adf
 <!--   my-skils -->
 
 | Knowledge                                        | Software                                                                                                                                                                                                                                                               |
