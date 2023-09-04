@@ -70,6 +70,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<img align="right" alt="Coding" width="350" src="https://th.bing.com/th/id/R.c99e353f761d318322c853c03ebcf21b?rik=nVPq4K7T5nq97g&pid=ImgRaw&r=0">
+
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <p align="left">
 <a href="https://twitter.com/JairoProDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
